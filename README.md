@@ -25,11 +25,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-```
+![image](https://github.com/user-attachments/assets/5cb5dda9-cd28-4765-a1f1-25fcf3e68b26)
 
-Modified value: 25.00
-
-```
 ## RESULT:
 Thus the program to convert a 23.65 into 25 using pointer has been executed successfully.
  
@@ -71,9 +68,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-```
-Product of first 12 natural numbers: 479001600
-```      		
+![image](https://github.com/user-attachments/assets/bd2cd462-b0de-4cef-a410-2ec6c7c67aa0)
+    		
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -119,13 +115,8 @@ int main() {
 }
 ```
 ## OUTPUT
-```
-Sum of row 1: 6
-Sum of row 2: 15
-Sum of row 3: 24
+![image](https://github.com/user-attachments/assets/2cdfa572-8b07-44a6-821f-d95848ffcb39)
 
-
-```
 
  ## RESULT
  Thus the program has been executed successfully.
@@ -173,16 +164,8 @@ int main() {
 }
 ```
  ## OUTPUT
-```
-Enter number of rows: 5
-   P
-  P R
- P R O
-P R O G
-P R O G R
+![image](https://github.com/user-attachments/assets/960a729c-d58d-4687-b776-dbd3b9edf450)
 
-
-```
 ## RESULT
 
 Thus the C program to String process executed successfully
@@ -234,13 +217,8 @@ int main() {
 }
 ```
 ## OUTPUT
-```
- Enter the number of elements: 6
-Enter 6 elements:
-1 2 3 4 5 6
-The elements in the array are:
-1 2 3 4 5 6
-```
+![image](https://github.com/user-attachments/assets/eab9f449-4a4e-4c59-b07c-027d8fb806c8)
+
 ## RESULT
 
 Thus the C program to read and display an array of any 6 integer elements using pointer has been executed
